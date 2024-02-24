@@ -1,1 +1,1 @@
-# I'm making software for fun, maybe someone will find it useful for something.
+# I'm making software for fun, don't expect the code to be any good.
